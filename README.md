@@ -1,2 +1,2 @@
-# AMAOEd-ComPrag1-Week004
+# AMAOEd-ComPrag1-ALLFILES
 My very first C++ application.
